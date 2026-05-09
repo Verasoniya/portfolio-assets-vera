@@ -31,7 +31,7 @@
     "type": "Work Project",
     "tech": "Nuxt.js, TypeScript, Tailwind CSS",
     "jobdesc": "Analyzed system requirements and built the application framework in collaboration with the Product Manager and UI/UX team. Developed reusable components and implemented a responsive and user friendly interface based on designs from Figma. Integrated RESTful APIs to handle CRUD operations for data presentation and management."
-  }
+  },
   {
     "id": 3,
     "name": "Rangkul Grosir",
