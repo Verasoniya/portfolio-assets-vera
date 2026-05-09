@@ -18,7 +18,7 @@
     "image": "https://raw.githubusercontent.com/Verasoniya/portfolio-assets-vera/refs/heads/main/rangkul-grosir-project.png",
     "summarize": "A web platform for purchasing Trend Micro antivirus products, integrated seamlessly into the BCA mobile application via WebView.",
     "type": "Work Project",
-    "tech": "React Native, JavaScript, CSS, Axios, RESTful API, Figma",
+    "tech": "Next.js, TypeScript, Tailwind CSS, Axios, RESTful API, Figma",
     "jobdesc": "Developed a highly responsive and user-friendly web interface tailored for the Trend Micro antivirus purchasing flow within the BCA mobile WebView container. Integrated RESTful APIs to process and handle real-time transaction and product purchase data. Ensured pixel-perfect layouts and smooth rendering across various mobile screen sizes based on Figma designs. Collaborated with the mobile development team to guarantee a seamless WebView integration and optimal performance."
   },
   {
