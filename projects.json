@@ -1,46 +1,68 @@
 [
   {
-    "id": 0,
+    "id": "kulakanpay",
     "name": "KulakanPay",
-    "time": "Feb 2026 - May 2026", 
+    "time": "Feb 2026 - Present",
     "role": "Frontend Developer",
     "image": "https://raw.githubusercontent.com/Verasoniya/portfolio-assets-vera/refs/heads/main/kulakanpay-project.png",
     "summarize": "A payment feature for the Barangkulakan application to support user transactions.",
     "type": "Work Project",
-    "tech": "React Native, CSS, Axios, RESTful API, Figma",
+    "tech": "React Native, TypeScript, CSS, Axios, RESTful API, Figma",
     "jobdesc": "Translated UI/UX designs into responsive and user-friendly interfaces. Built reusable components to improve development efficiency and consistency. Integrated RESTful APIs for dynamic data processing and display. Implemented data visualization using Highcharts to enhance monitoring and insights."
-  }, 
+  },
   {
-    "id": 1,
+    "id": "bca-trend-micro",
+    "name": "BCA Trend Micro",
+    "time": "Nov 2024 to Present",
+    "role": "Frontend Developer",
+    "image": "https://raw.githubusercontent.com/Verasoniya/portfolio-assets-vera/refs/heads/main/rangkul-grosir-project.png",
+    "summarize": "A web platform for purchasing Trend Micro antivirus products, integrated seamlessly into the BCA mobile application via WebView.",
+    "type": "Work Project",
+    "tech": "React Native, JavaScript, CSS, Axios, RESTful API, Figma",
+    "jobdesc": "Developed a highly responsive and user-friendly web interface tailored for the Trend Micro antivirus purchasing flow within the BCA mobile WebView container. Integrated RESTful APIs to process and handle real-time transaction and product purchase data. Ensured pixel-perfect layouts and smooth rendering across various mobile screen sizes based on Figma designs. Collaborated with the mobile development team to guarantee a seamless WebView integration and optimal performance."
+  },
+  {
+    "id": "bp-ticketing",
+    "name": "BP-Ticketing",
+    "time": "Oct 2025",
+    "role": "Frontend Developer",
+    "image": "https://raw.githubusercontent.com/Verasoniya/portfolio-assets-vera/refs/heads/main/bp-ticketing.png",
+    "summarize": "A ticketing website designed for submitting and tracking technical issues or complaints regarding fuel station systems.",
+    "type": "Work Project",
+    "tech": "Next.js, TypeScript, Tailwind CSS, Axios, RESTful API, Highcharts, Figma",
+    "jobdesc": "Developed responsive and user-friendly web applications based on UI/UX designs from Figma. Implemented RESTful APIs for seamless data processing. Integrated Highcharts to build interactive data visualizations on the admin dashboard. Created reusable components to optimize development efficiency."
+  },
+  {
+    "id": "p-map",
     "name": "P-MAP",
     "time": "August 2025 to Oct 2025",
     "role": "Frontend Developer",
     "image": "https://raw.githubusercontent.com/Verasoniya/portfolio-assets-vera/refs/heads/main/pmap-project.png",
     "summarize": "This application is designed to monitor the quality and condition of pipeline network used in the distribution of crude oil.",
     "type": "Work Project",
-    "tech": "Next.js, TypeScript, Tailwind CSS",
+    "tech": "Next.js, TypeScript, Tailwind CSS, Axios, RESTful API, Highcharts, Figma",
     "jobdesc": "Developed the mobile app based on user needs to support the end-to-end wholesale transaction process. Developed reusable components and implemented Figma designs into responsive and user friendly interface. Integrated REST APIs to support data display and management, including product listings, transactions, and user profiles."
   },
   {
-    "id": 2,
+    "id": "fms",
     "name": "Fuel Management System",
     "time": "May 2025 to August 2025",
     "role": "Frontend Developer",
     "image": "https://raw.githubusercontent.com/Verasoniya/portfolio-assets-vera/refs/heads/main/fms-project.png",
     "summarize": "A web application for monitoring and managing the distribution, usage, intake, and borrowing of diesel fuel.",
     "type": "Work Project",
-    "tech": "Nuxt.js, TypeScript, Tailwind CSS",
+    "tech": "Nuxt.js, TypeScript, Tailwind CSS, Axios, RESTful API, Shadcn UI, Highcharts, Figma",
     "jobdesc": "Analyzed system requirements and built the application framework in collaboration with the Product Manager and UI/UX team. Developed reusable components and implemented a responsive and user friendly interface based on designs from Figma. Integrated RESTful APIs to handle CRUD operations for data presentation and management."
   },
   {
-    "id": 3,
+    "id": "rangkul-grosir",
     "name": "Rangkul Grosir",
     "time": "May 2024 to Oct 2024",
     "role": "Frontend Developer",
     "image": "https://raw.githubusercontent.com/Verasoniya/portfolio-assets-vera/refs/heads/main/rangkul-grosir-project.png",
     "summarize": "A android application designed to facilitate wholesale buying and selling of various products, aimed at connecting suppliers and resellers through a streamlined digital platform.",
     "type": "Work Project",
-    "tech": "React Native, JavaScript, CSS",
+    "tech": "React Native, JavaScript, CSS, Axios, RESTful API, Figma",
     "jobdesc": "Developed the mobile app based on user needs to support the end-to-end wholesale transaction process. Developed reusable components and implemented Figma designs into responsive and user friendly interface. Integrated REST APIs to support data display and management, including product listings, transactions, and user profiles."
   }
 ]
