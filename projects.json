@@ -1,26 +1,24 @@
 [
   {
-    id: 0,
-    name: 'KulakanPay',
-    time: 'Feb 2026 - May 2026',
-    role: 'Frontend Developer',
-    image: 'https://raw.githubusercontent.com/Verasoniya/portfolio-assets-vera/refs/heads/main/kulakanpay-project.png',
-    summarize:
-      'A payment feature for the Barangkulakan application to support user transactions.',
-    type: 'Work Project',
-    tech: 'React Native, CSS, Axios, RESTful API, Figma',
-    jobdesc: 'Translated UI/UX designs into responsive and user-friendly interfaces. Built reusable components to improve development efficiency and consistency. Integrated RESTful APIs for dynamic data processing and display. Implemented data visualization using Highcharts to enhance monitoring and insights.'
+    "id": 0,
+    "name": "KulakanPay",
+    "time": "Feb 2026 - May 2026", 
+    "role": "Frontend Developer",
+    "image": "https://raw.githubusercontent.com/Verasoniya/portfolio-assets-vera/refs/heads/main/kulakanpay-project.png",
+    "summarize": "A payment feature for the Barangkulakan application to support user transactions.",
+    "type": "Work Project",
+    "tech": "React Native, CSS, Axios, RESTful API, Figma",
+    "jobdesc": "Translated UI/UX designs into responsive and user-friendly interfaces. Built reusable components to improve development efficiency and consistency. Integrated RESTful APIs for dynamic data processing and display. Implemented data visualization using Highcharts to enhance monitoring and insights."
   }, 
   {
-    id: 0,
-    name: 'P-MAP',
-    time: 'August 2025 to Oct 2025',
-    role: 'Frontend Developer',
-    image: 'https://raw.githubusercontent.com/Verasoniya/portfolio-assets-vera/refs/heads/main/pmap-project.png',
-    summarize:
-      'This application is designed to monitor the quality and condition of pipeline network used in the distribution of crude oil.',
-    type: 'Work Project',
-    tech: 'Next.js, TypeScript, Tailwind CSS',
-    jobdesc: 'Developed the mobile app based on user needs to support the end-to-end wholesale transaction process. Developed reusable components and implemented Figma designs into responsive and user friendly interface. Integrated REST APIs to support data display and management, including product listings, transactions, and user profiles.'
-  }, 
-];
+    "id": 1,
+    "name": "P-MAP",
+    "time": "August 2025 to Oct 2025",
+    "role": "Frontend Developer",
+    "image": "https://raw.githubusercontent.com/Verasoniya/portfolio-assets-vera/refs/heads/main/pmap-project.png",
+    "summarize": "This application is designed to monitor the quality and condition of pipeline network used in the distribution of crude oil.",
+    "type": "Work Project",
+    "tech": "Next.js, TypeScript, Tailwind CSS",
+    "jobdesc": "Developed the mobile app based on user needs to support the end-to-end wholesale transaction process. Developed reusable components and implemented Figma designs into responsive and user friendly interface. Integrated REST APIs to support data display and management, including product listings, transactions, and user profiles."
+  }
+]
